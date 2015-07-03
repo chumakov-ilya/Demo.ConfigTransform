@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.ConfigTransform.AppConfig", "Demo.ConfigTransform.AppConfig\Demo.ConfigTransform.AppConfig.csproj", "{FDA722EE-37AB-4D47-B1ED-EE98BB3C02DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ReleaseForTest|Any CPU = ReleaseForTest|Any CPU
+		Test|Any CPU = Test|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA722EE-37AB-4D47-B1ED-EE98BB3C02DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA722EE-37AB-4D47-B1ED-EE98BB3C02DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA722EE-37AB-4D47-B1ED-EE98BB3C02DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA722EE-37AB-4D47-B1ED-EE98BB3C02DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA722EE-37AB-4D47-B1ED-EE98BB3C02DD}.ReleaseForTest|Any CPU.ActiveCfg = ReleaseForTest|Any CPU
+		{FDA722EE-37AB-4D47-B1ED-EE98BB3C02DD}.ReleaseForTest|Any CPU.Build.0 = ReleaseForTest|Any CPU
+		{FDA722EE-37AB-4D47-B1ED-EE98BB3C02DD}.Test|Any CPU.ActiveCfg = Test|Any CPU
+		{FDA722EE-37AB-4D47-B1ED-EE98BB3C02DD}.Test|Any CPU.Build.0 = Test|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
